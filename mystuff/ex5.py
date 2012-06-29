@@ -18,3 +18,4 @@ print "His teeth are usually %s depending on the coffee." % my_teeth
 #this line is tricky, try to get it exacly right
 print "If I add %d, %f, and %d I get %r." % (
     my_age, my_height, my_weight, my_age + my_height + my_weight)
+# %r - prints this no matter what
